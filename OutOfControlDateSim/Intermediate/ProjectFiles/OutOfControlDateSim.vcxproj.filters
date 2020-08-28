@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\OutOfControlDateSim.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A5AD98B6-6259-4C22-AC69-97EA21F50325}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OutOfControlDateSim.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\OutOfControlDateSimEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4209076A-DC25-4414-A5AD-CC5DB57CA570}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\OutOfControlDateSim">
+      <UniqueIdentifier>{92F04E89-2A23-4FA3-802E-C196F613409F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSim.Build.cs">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSim.cpp">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSim.h">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimCharacter.cpp">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimCharacter.h">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimGameMode.cpp">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimGameMode.h">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimHUD.cpp">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimHUD.h">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimProjectile.cpp">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\OutOfControlDateSim\OutOfControlDateSimProjectile.h">
+      <Filter>Source\OutOfControlDateSim</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
