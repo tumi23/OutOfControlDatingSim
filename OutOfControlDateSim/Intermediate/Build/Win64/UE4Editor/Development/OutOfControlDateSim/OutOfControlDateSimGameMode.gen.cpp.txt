@@ -1,9 +1,0 @@
-C:\Users\tumig\Documents\GitHub\OutOfControlDatingSim\OutOfControlDateSim\Intermediate\Build\Win64\UE4Editor\Development\OutOfControlDateSim\Definitions.OutOfControlDateSim.h
-D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\tumig\Documents\GitHub\OutOfControlDatingSim\OutOfControlDateSim\Source\OutOfControlDateSim/OutOfControlDateSimGameMode.h
-D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Games\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Games\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\tumig\Documents\GitHub\OutOfControlDatingSim\OutOfControlDateSim\Intermediate\Build\Win64\UE4Editor\Inc\OutOfControlDateSim\OutOfControlDateSimGameMode.generated.h
